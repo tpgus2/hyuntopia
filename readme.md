@@ -15,4 +15,4 @@
 ## 미리보기
 깃소스주소 : github.com/tpgus2/hyuntopia
 
-깃페이지주소 : tpgus.github.com/hyuntopia
+깃페이지주소 : tpgus2.github.io/hyuntopia/
